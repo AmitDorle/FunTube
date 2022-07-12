@@ -1,0 +1,58 @@
+.video-card-container{
+    background-color: white;
+    width: 350px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px rgb(0, 0, 0,0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.video-card-container:hover{
+    box-shadow: 3px 3px 8px rgb(0, 0, 0, 0.5);
+    border: 0.5px solid black;
+    border-radius:10px;
+    cursor: pointer;
+  }
+
+
+
+.video-card-thumbnail{
+    width: 100%;
+    max-height: 200px;
+    border-radius: 10px;
+}
+
+.video-card-title{
+    padding-left: 10px;
+    font-weight: bold;
+    color: black;
+}
+
+.video-card-description{
+    padding: 10px;
+    font-style: bold;
+    color: rgb(144, 119, 119);
+}
+.videocard-first-head
+{
+    text-align: center;
+}
+.img-title-name
+{
+    display: flex;
+    justify-content: flex-start;
+    vertical-align: middle;
+}
+.video-card-channel
+{
+    margin-top: 12px;
+}
+.channel-logo
+{
+    border-radius: 50%;
+}

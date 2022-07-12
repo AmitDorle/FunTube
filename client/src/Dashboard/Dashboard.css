@@ -1,0 +1,59 @@
+.funtube-head
+{
+    background: -webkit-linear-gradient(rgb(213, 4, 4), rgb(24, 3, 221));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:'Times New Roman', Times, serif;
+}
+.dashboard-nav
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.logout-button
+{
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: red;
+    cursor: pointer;
+} 
+.head-start
+{
+    border-radius: 5px;
+    padding: 3px;
+    background-color: white;
+    color: red;
+    box-shadow: 0px 0px 5px orange;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input-search{
+    border: none;
+    outline: none;
+    width: 250px;
+}
+
+.search-bar{
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.add-video-logo
+{
+    height: 65px;
+    cursor: pointer;
+}
+.search-btn
+{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 3px green;
+    margin-bottom: 5px;
+}

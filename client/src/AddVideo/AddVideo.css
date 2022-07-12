@@ -1,0 +1,17 @@
+.form-add-video{
+    background-color:#df94e9 ;
+    padding: 10px;
+    border-radius: 15px;
+    border: 5px double rgb(14, 14, 14);
+    box-shadow: 0px 0px 5px red;
+}
+.btn-add-video{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.welcome-message
+{
+    color: darkgreen;
+}
